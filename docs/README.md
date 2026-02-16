@@ -35,9 +35,11 @@ tqdm-demonstrator показывает, как заставить консоль
 
 ## 📸 Как это выглядит
 
-| Главное меню | Прогресс обработки | Менеджер файлов |
+| Главное меню | 
 |--------------|-------------------|-----------------|
 | <img width="957" height="512" alt="image" src="https://github.com/user-attachments/assets/c713559f-9578-4f3b-b7c6-d4f9c0730159" />
+ Прогресс обработки<img width="977" height="509" alt="image" src="https://github.com/user-attachments/assets/b02ea161-d710-47a2-869c-fe5c8236eb40" />
+| Менеджер файлов | <img width="1407" height="899" alt="image" src="https://github.com/user-attachments/assets/90e7676f-8210-4a37-849c-bf85fe3738d5" />
 
 
 ---
