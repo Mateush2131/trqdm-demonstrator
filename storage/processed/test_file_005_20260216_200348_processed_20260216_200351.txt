@@ -1,0 +1,30 @@
+============================================================
+ОБРАБОТАННЫЙ ФАЙЛ
+============================================================
+Оригинал: test_file_005_20260216_200348.log
+Обработан: 20260216_200351
+Размер: 745 символов
+Строк: 19
+------------------------------------------------------------
+ФАЙЛ #5
+Создан: 20260216_200348
+Генератор: tqdm-demonstrator
+----------------------------------------
+e3nbaMZqLKuLutZ1DKP k Vp5d C  Td8Sb yUQv1W0wCwhTU8
+t1GSHPH8Q9SmZMP3GsToT s f068G
+IzTZqRGaUtY7BgfMcROP8Thw11jl1p UQBJY8w
+aDRxaVS otbQygwy7Z Upirl5rQ7ah7dT3ATPFMxczCAGQ4uWGLTwcyS
+ Oh5xDkcAVhUuB 14QtcvdDkO0kstwYd13ZZX xTIk ICYx6A 3f
+l64FNSlRfIigo5HXBbhV HIP2R Il OH6WL3yc3E
+3q Fbw Voo GXbXFznDb dRhX bZ j
+KZK95oaicF BJDspjgOG6nnHVmW2 J5sBbCoN4ewL PagWVQvCZND
+DHmg VJ u0Q0  JDNn5ci
+hyxzI7N0VBQuXh J7kTd8B7Iu vrjyrN3LL K G KfJJTy 8mLmkW   
+2VkDeCa8Kdz F5yE1Fi6iQV0w3qffVJFn F
+FYHurk1 EQKqkBfb 1oGxJWI6Uvtp0lrY9yhG H4J PB0o3nsHgTyHNU4J3U
+CtEy7Jcm6Fw4Gh8G XRzzRG C cmYFc dVa  2VCe  32HCEMh6oJ4f
+----------------------------------------
+КОНЕЦ ФАЙЛА #5
+------------------------------------------------------------
+КОНЕЦ ОБРАБОТАННОГО ФАЙЛА
+============================================================

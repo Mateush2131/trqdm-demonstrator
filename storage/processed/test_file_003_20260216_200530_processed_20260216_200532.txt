@@ -1,0 +1,30 @@
+============================================================
+ОБРАБОТАННЫЙ ФАЙЛ
+============================================================
+Оригинал: test_file_003_20260216_200530.tmp
+Обработан: 20260216_200532
+Размер: 661 символов
+Строк: 19
+------------------------------------------------------------
+ФАЙЛ #3
+Создан: 20260216_200530
+Генератор: tqdm-demonstrator
+----------------------------------------
+rhtuluI262kiB5iks eI3fUbQBt6je WFn BzeCGkdT  U0dUjIu
+rVo5tJNTmJsD8gjGzR4G
+9uhnZe63 fsn6GPjx3ZzddRXiCmC9Fmfe
+lkI9omiFR9I6QErxTWRWGQEohWKdUw2lhe xZgbJ
+hdcuYE8xLsQFZ5cgIx0UD Dpt0ByLrGicr0N4VcUweqXTyE
+X  dgXIOOgBHUr XQ IJatkU
+7bh0g98Scqt c2TTliUBYTN58vT5HF3kx9kq v2EB1rFXN4vQRfnNnI40ln
+fR2ZbF 2LFdDk8S3Cgc54PnRW6tGCA
+WPYSsQeHs N c9TBnZrYTZZIy0 PMBnq
+5DD ua IxVkc m6NVkqAxgmtjA l  CMegbIo  LClsfqU9PyB
+R51mTcZx79rEtF bAkeO
+W0njPWBGeS9 u ejmR1F9DjCm  JLhbABNOCKP5A3dRb8u5mAcsRU
+DhyMQnxDotouFCSSzBpSiuEhIx mCAq
+----------------------------------------
+КОНЕЦ ФАЙЛА #3
+------------------------------------------------------------
+КОНЕЦ ОБРАБОТАННОГО ФАЙЛА
+============================================================

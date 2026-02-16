@@ -1,0 +1,32 @@
+============================================================
+ОБРАБОТАННЫЙ ФАЙЛ
+============================================================
+Оригинал: test_file_004_20260216_200530.dat
+Обработан: 20260216_200532
+Размер: 788 символов
+Строк: 21
+------------------------------------------------------------
+ФАЙЛ #4
+Создан: 20260216_200530
+Генератор: tqdm-demonstrator
+----------------------------------------
+FqNm p2Kf6IfBh  iDtqMM 2
+5r9N4GH1ObW0Et8nrxBnngA60dAyHB78gngDl15djO Uvs9YKx2SqzgN1m
+Hfb7wY8e G uA hhvXCg6S5A obRH48Jwwg6DqL  W9Sco0VLPZjtx sI
+0y79jY04JFRU75usv0M CMOt8u0L JSJt81JJX pK1 guz
+lkGL G 9FeF7qOmzDDsj4Vd0soSFCeQe91oKQbG M
+699QpBIiZn3imcY JHBqnc
+  1Zi64YnQHcvZcmtvN4KcyVlIxNEdkuK5vsscP
+Is2mGscuic TBit1v  UCgJ
+BPHN0t7cniyx32Aksb3p6fg0h38XC45uyG
+wAHbWJiR1I8wZ iLufohvgf11p35iu0y DAvuxvWJTg7zXI31qHnqlL7d1q
+MCPnh hX6Wg6bb6J  I51XJqYJlBrx yFu2IbAe W3HsTBaumD9YJIr
+MaXqwxhZudaD Pk0  wOlpBaPVszF564OwZ3tP6lvstF3e
+3xShhHz1s V dD8LKXnpzBH cEy qjkxDNGDfLgt M6Ch5ONmHmqOTx
+eCsFHuOZCGtX46cqyeEMrdV0QSW2yRTJfK7Uu
+n32 DwSZT978cTUBim Y
+----------------------------------------
+КОНЕЦ ФАЙЛА #4
+------------------------------------------------------------
+КОНЕЦ ОБРАБОТАННОГО ФАЙЛА
+============================================================

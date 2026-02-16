@@ -1,0 +1,28 @@
+============================================================
+ОБРАБОТАННЫЙ ФАЙЛ
+============================================================
+Оригинал: test_file_004_20260216_205845.dat
+Обработан: 20260216_205847
+Размер: 580 символов
+Строк: 17
+------------------------------------------------------------
+ФАЙЛ #4
+Создан: 20260216_205845
+Генератор: tqdm-demonstrator
+----------------------------------------
+ej 7e4m18rgEfT7Uz Lj 1miIboBN7RruQ4P U3 gD IhdBjz3vdrDyzJijD
+Hk12cbaXmmUSaIlpB9JxBzTo7t5V2QGqnQ1ICreP5lcXW  78mPKrb
+EhW69NIjKj4I5ruoa XNMM zK5t4M
+u1Nfzymcs91oUqgg2abXOBNseyV YelSIMsCLqm
+ voyw Q8Qi  0n Le2xV8pS3e
+70dSwMi393qDW17P7H Jgt6YGXK0KVlukUJcjobBl1LPm9I
+D65VC 1sFfPt99yBtwrsMDwGLt0 v 9Yao
+ qp7G8S ZmbwhhZV4hVxt
+1mpP  jRE1r91lGh5zf3a5B
+TKAWAJt0ukYV BgvLF 3SuR0pvILGgCfh37eCXri
+RK KY gJGuvmLP27EK27 Mqr O xLJ7w7Jz4Ev9N
+----------------------------------------
+КОНЕЦ ФАЙЛА #4
+------------------------------------------------------------
+КОНЕЦ ОБРАБОТАННОГО ФАЙЛА
+============================================================

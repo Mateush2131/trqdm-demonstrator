@@ -1,0 +1,25 @@
+============================================================
+ОБРАБОТАННЫЙ ФАЙЛ
+============================================================
+Оригинал: test_file_003_20260216_200348.dat
+Обработан: 20260216_200350
+Размер: 526 символов
+Строк: 14
+------------------------------------------------------------
+ФАЙЛ #3
+Создан: 20260216_200348
+Генератор: tqdm-demonstrator
+----------------------------------------
+VogT 5S8aUVFd5tBZ8ouQ2gdV3 Ens9G0cQXKD
+EmT7FEvrS7CF39T3qv QiHPGg9ba2Y iwkRGfB2b  
+6  B9ZAcGzB 5WLMCCFbM4dMW8k7HsMUQJGX0s GQ
+794ABCNrGlI0  TXt9uJyOEd3kiFU5  FltGFWGR4J29oGbz69
+QnGpy5Sxn Jcl3vNeaJyWazS1gtmV DrscS4 nlyirNCTS0q6il3kxE60
+COV4 MTBv drRkyAAr 62J0Zgz cw8c1Ko9
+Q vKzW21QcTRUSyLa T5bUX5QeXmuph3ey2lFC
+ m InWomdbdCAURHb8UCSg0e5jRezRKhXfUch NnbcCWIaNlngi Y8InQ0Wx
+----------------------------------------
+КОНЕЦ ФАЙЛА #3
+------------------------------------------------------------
+КОНЕЦ ОБРАБОТАННОГО ФАЙЛА
+============================================================

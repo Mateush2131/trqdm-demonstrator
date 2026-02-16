@@ -1,0 +1,32 @@
+============================================================
+ОБРАБОТАННЫЙ ФАЙЛ
+============================================================
+Оригинал: test_file_010_20260216_200348.dat
+Обработан: 20260216_200354
+Размер: 808 символов
+Строк: 21
+------------------------------------------------------------
+ФАЙЛ #10
+Создан: 20260216_200348
+Генератор: tqdm-demonstrator
+----------------------------------------
+NBkWF6GuqqZhHXLA0xy ivRmO OS4AgBiyG3fdvf2 nqft62L dBS6EB
+7o6cwpwD W   W  v6H rmwvs d0qusxUD 
+M04ek 3gRb6yHbasQ3To6Y7BZaG lFRbTY 8ey76UAR1PMIm gSe4cmNE03
+2ogQwKM15nr tQJ6XUH EvH1nh
+EHRB46a3gZ YIQ 0Giqnri 0ePv JELMIREqPj
+ayVeVRKX3e11s36mFEegkem quv5aGt0  1 0
+ U5y0eTzJHRGNqAalNa kz8zF6eDXe4qf9ih881WZ5Oj9H1cbT aV6D NB
+ aTQ i 1WSHZ OyNtS1X
+Jz61ScM6vgk MBg6i6iV 6DdBAcybTmSsIdKluOL
+yF rBzajZe9R1fOKH8hmW8 oEtLUilS WoW1SWcOQ5Upum ato48k
+AzAeRU54 iiQ155 u sqpy  lkt34F5T4Q
+nWrSaA J6KA62Sq7csYjHHFfU Py2Qe2 QS8f34u6HH
+ParfQnCNbrz0lmJR3fYUNPNOyC2zkRNsPNUf2cea
+2RNj1H42ctlZpA5zidLJdZoE GAG6NM99ZiFZx
+KXhlcxctd0Dvar173nFvXMIboD nOKEML0qRmr1 Gn4a9YRlAhvqd9 36
+----------------------------------------
+КОНЕЦ ФАЙЛА #10
+------------------------------------------------------------
+КОНЕЦ ОБРАБОТАННОГО ФАЙЛА
+============================================================

@@ -1,0 +1,26 @@
+============================================================
+ОБРАБОТАННЫЙ ФАЙЛ
+============================================================
+Оригинал: test_file_014_20260216_200348.tmp
+Обработан: 20260216_200356
+Размер: 575 символов
+Строк: 15
+------------------------------------------------------------
+ФАЙЛ #14
+Создан: 20260216_200348
+Генератор: tqdm-demonstrator
+----------------------------------------
+noa EqWB7ClMX SXyigRlqeGs6Xa64RT4CoANB
+ fGg0mqMeX9boSJk60Ui7h4DvfsUGg4Vo8BO v7 a B vAvXO hy
+Bbhxm EAu4Ae7zZQCKoLx9jkN5OBeN UhjQoUT8kjA aEoAz86
+vyxIUT9hsnGqNaLBbyOG5 G 0w
+oY0ri9prelN1v 7BiuHHUlGrqVAjKV7ReCKBcRh kARclqvX9H7KWGl
+F04jj5wgdb4U loT Brt JG36aNGHE3isONNU
+KF4j 22qJBasj7qVTJOjCJnN I1DTNB0Xm7ZvE
+j gnQ7TsB7QNtdXLiiCI1  Avy 2kyA9mlrHzmAlWkMb9ic9u0MYsOpK P 5
+paSrtjSnefT4J6EVTFE inbuGJ MBzMqtl1azDKUs  0VsjwssP
+----------------------------------------
+КОНЕЦ ФАЙЛА #14
+------------------------------------------------------------
+КОНЕЦ ОБРАБОТАННОГО ФАЙЛА
+============================================================

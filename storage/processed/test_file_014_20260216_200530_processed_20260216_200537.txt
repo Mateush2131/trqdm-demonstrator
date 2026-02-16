@@ -1,0 +1,31 @@
+============================================================
+ОБРАБОТАННЫЙ ФАЙЛ
+============================================================
+Оригинал: test_file_014_20260216_200530.dat
+Обработан: 20260216_200537
+Размер: 676 символов
+Строк: 20
+------------------------------------------------------------
+ФАЙЛ #14
+Создан: 20260216_200530
+Генератор: tqdm-demonstrator
+----------------------------------------
+ rHA2gu4F4X6b5RIL xXFt7br 3gnZc65P1
+yqudWLpweBpocl6lvWOIhx  UIiKhVCL
+qYykv6x2uG rM5zkx FBurXOFLq2SDXLVEdE c
+4PfN GaYWYlBkGscXC01A9gv9xOpk1NjRLJncZ23f mb
+TdeYgrqFEwfzJCBD0 msZH 7pwFYXfD tIE Cs0AzTc5szd03Jn
+ Fgz5yru GWPXeG 8dyAcNG5Ama1qA3 w4vCQkL 0X34lnqG4XUxsk
+0bv 5eciBed kUlTo4vI
+7worjT7rgtXA zOvWUYX 1h3b
+kqPrpFevxuA P    LaLeBZ 
+jMJUwmHBrw6WM0DO7lAQlVh4e HFLQxL U3gE6d6coOypR
+kF7nySz iFVebs1olhlOjFEoF ymYvqu0CtFfPEl65XID5 
+ssQGBjjPS8W96e ilgJFDml
+WUIbkdkavI vSC r12 Zg9IaGFJiH7
+p w21mhTSzcJ5xkWIpa7KXaSlBvSzcjQ C
+----------------------------------------
+КОНЕЦ ФАЙЛА #14
+------------------------------------------------------------
+КОНЕЦ ОБРАБОТАННОГО ФАЙЛА
+============================================================
