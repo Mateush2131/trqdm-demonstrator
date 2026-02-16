@@ -48,7 +48,7 @@ tqdm-demonstrator показывает, как заставить консоль
 
 ### Для обычных пользователей (рекомендуется)
 1. Скачай Python с [официального сайта](https://python.org) (если ещё нет)
-2. Скачай проект [отсюда](https://github.com/username/tqdm-demonstrator)
+2. Скачай проект [отсюда](https://github.com/Mateush2131/trqdm-demonstrator)
 3. Запусти `run.py` двойным кликом
 4. Выбирай сценарий и смотри магию
 
