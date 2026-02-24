@@ -54,7 +54,7 @@ tqdm-demonstrator показывает, как заставить консоль
 
 ### Для разработчиков (из исходников)
 ```bash
-git clone https://github.com/username/tqdm-demonstrator
+git clone https://github.com/Mateush2131/tqdm-demonstrator
 cd tqdm-demonstrator
 pip install -r requirements.txt
 python run.py
